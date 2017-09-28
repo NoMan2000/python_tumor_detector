@@ -1,0 +1,7 @@
+Filename,HasTumor,Rows,Columns
+bad_input.in,Error,NA,NA
+empty_line_input.in,Error,NA,NA
+ignore_non_alpha_characters.in,False,51,80
+no_tumor.in,False,50,80
+no_tumor_60_columns.in,False,60,80
+yes_tumor.in,True,50,80
